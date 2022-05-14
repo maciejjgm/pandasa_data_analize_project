@@ -1,29 +1,10 @@
 # pandasa_data_analize_project
 **ABY URUCHOMIĆ PROJEKT WYMAGANY JEST PLIK CSV UMIESZCZONY NA GOOGLE DRIVE!**
+Projekt na zajecia z Analizy danych WSB.
+Założenia projektu:
+Stworzyć aplikacje, która wykona analize wypadków w Nowym Yorku w celu zindytyfikowania w których dzielnicach dochodzi 
+do największej ilości wypadków motocyklowych oraz zaprezentowanie wyników w formie grafu.
 
-### pip list:
-````
-Package            Version
------------------- -------
-cycler             0.11.0
-fonttools          4.33.3
-fuzzywuzzy         0.18.0
-Jinja2             3.1.2
-kiwisolver         1.4.2
-MarkupSafe         2.1.1
-matplotlib         3.5.2
-numpy              1.22.3
-packaging          21.3
-pandas             1.4.2
-Pillow             9.1.0
-pip                22.0.4
-pyparsing          3.0.9
-python-dateutil    2.8.2
-python-Levenshtein 0.12.2
-pytz               2022.1
-setuptools         56.0.0
-six                1.16.0
-````
 # Analiza Danych 
 
 ### Konfiguracja środowiska - Ubuntu
@@ -76,5 +57,3 @@ pip install matplotlib
 * https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.pyplot.subplots.html
 
 * https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
-
-Projekt na zajecia z Analizy danych WSB
