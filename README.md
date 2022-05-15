@@ -1,10 +1,11 @@
 # pandasa_data_analize_project
 **ABY URUCHOMIĆ PROJEKT WYMAGANY JEST PLIK CSV UMIESZCZONY NA GOOGLE DRIVE!**
+````
 Projekt na zajecia z Analizy danych WSB.
 Założenia projektu:
 Stworzyć aplikacje, która wykona analize wypadków w Nowym Yorku w celu zindytyfikowania w których dzielnicach dochodzi 
 do największej ilości wypadków motocyklowych oraz zaprezentowanie wyników w formie grafu.
-
+````
 # Analiza Danych 
 
 ### Konfiguracja środowiska - Ubuntu
